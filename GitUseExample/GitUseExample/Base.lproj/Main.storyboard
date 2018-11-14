@@ -36,23 +36,5 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="oku-ke-8JJ">
-            <objects>
-                <viewController id="YFI-WL-DtP" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="lJk-31-JJl"/>
-                        <viewControllerLayoutGuide type="bottom" id="UYm-Np-XKC"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="TeV-hv-CPm">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Fvz-TQ-auG" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-30" y="425"/>
-        </scene>
     </scenes>
 </document>
